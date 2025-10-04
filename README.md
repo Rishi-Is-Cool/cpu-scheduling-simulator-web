@@ -60,7 +60,7 @@ Contributions are welcome! If you find bugs or have suggestions for new features
 
 ## 👤 Author
 
-* **[Rishi-Is-Cool]** - [LinkedIn](https://www.linkedin.com/in/rishikesh-patil-486194312/)]
+* **[Rishi-Is-Cool]** - [LinkedIn](https://www.linkedin.com/in/rishikesh-patil-486194312/)
 
 ---
 
