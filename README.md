@@ -60,7 +60,7 @@ Contributions are welcome! If you find bugs or have suggestions for new features
 
 ## 👤 Author
 
-* **[Your Name / GitHub Username]** - [Link to your portfolio or LinkedIn (Optional)]
+* **[Rishi-Is-Cool]** - [[Link to your portfolio or LinkedIn (Optional)](https://www.linkedin.com/in/rishikesh-patil-486194312/)]
 
 ---
 
