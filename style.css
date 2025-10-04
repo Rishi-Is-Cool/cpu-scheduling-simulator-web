@@ -1,0 +1,44 @@
+/* Custom styles for aesthetic enhancements */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f7f9fb;
+}
+.container-card {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+/* Custom style for the Gantt chart processes */
+.gantt-block {
+    padding: 8px 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: center;
+    border-right: 1px solid rgba(255, 255, 255, 0.4);
+    transition: all 0.3s ease;
+    cursor: default;
+}
+.gantt-block:hover {
+    opacity: 0.9;
+    transform: scaleY(1.05);
+}
+.gantt-time-line {
+    position: relative;
+    height: 20px;
+    margin-top: 5px;
+}
+.gantt-time-mark {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    border-left: 1px dashed #333;
+    font-size: 0.75rem;
+    color: #333;
+    transform: translateX(-50%);
+}
+/* Fade-in animation for results */
+#results-container {
+    animation: fadeIn 0.8s ease-out;
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
